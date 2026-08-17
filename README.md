@@ -1,11 +1,6 @@
 # TekkYEA — Minecraft 1.21.1
 
 A Minecraft 1.21.1 modpack: 260 mods, plus preconfigured configs, datapacks and Xaero's map data.
-
-## Download
-
-Grab `TekkYEA 1.21.1.zip` from the [Releases](https://github.com/Knolli3D/TekkYEA-Minecraft-1.21.1/releases) page.
-
 ---
 
 🌟 **Welcome to our Modded Minecraft Server!** 🌟
@@ -42,25 +37,3 @@ Here's an overview of the mods we use to make our adventure even more exciting. 
 _(Additionally, various core and library mods run in the background, making sure all the other mods work together smoothly.)_
 
 ---
-
-## What's in the zip
-
-The archive contains the contents of a Minecraft instance folder, not a launcher pack file:
-
-```
-config/       mod configuration
-datapacks/    included datapacks
-mods/         260 mod jars
-xaero/        Xaero's minimap / world map data
-servers.dat   preconfigured server list
-```
-
-## Installation
-
-1. Create an instance for **Minecraft 1.21.1** with the required mod loader in your launcher.
-2. Open that instance's game folder (`.minecraft`, or `minecraft/` in Prism / MultiMC).
-3. Extract the contents of the zip directly into that folder, so `mods/`, `config/`, `datapacks/` and `xaero/` sit alongside `options.txt`.
-4. Allocate enough RAM — a 260-mod pack wants roughly 6–8 GB.
-5. Launch the instance.
-
-> Because this is a plain folder dump, importing the zip through a launcher's "import modpack" option will **not** work.
